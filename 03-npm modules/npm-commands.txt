@@ -1,0 +1,15 @@
+install dependencies:
+    npm i <package-name>
+
+dependencies:
+    ^1.2.3->no major update,only small and patch update
+    "*" update to latest version
+    ~1.2.3->patch only
+    1.2.3->fixed version
+
+Dev dependencies:
+    npm i <package-name> -D
+
+uninstall:
+    npm uninstall/un/rm <package-name> -D or -g
+    npm uninstall <package-name>
