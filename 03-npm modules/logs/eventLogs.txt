@@ -1,0 +1,3 @@
+20220111	16:20:48	a2fb2c18-b664-43bb-849a-c459c5398b20	log event emitted!
+20220111	16:21:05	7be7968f-54fe-4553-b566-7dd3eed72697	log event emitted!
+20220111	16:21:14	25512603-3915-4f2f-acea-b3cf8b69dcca	log event emitted!
